@@ -7,7 +7,7 @@
 #### Project Proposal
 
 #
-__Link to Dataset:__ https://www.kaggle.com/neuromusic/avocado-prices
+__Link to Dataset:__ https://www.kaggle.com/martinellis/nhl-game-data
 
 #
 ## __Methodology__
