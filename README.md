@@ -12,6 +12,6 @@ __Link to Dataset:__ https://www.kaggle.com/martinellis/nhl-game-data
 #
 ## __Methodology__
 ### 1. Import Kaggle data set to Jupyter Notebook and clean using Pandas
-### 2. 
+### 2. Build various models on different regressions to evaluate data
 ### 3. 
 ### 4. 
