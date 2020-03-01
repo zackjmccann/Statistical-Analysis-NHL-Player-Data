@@ -4,7 +4,7 @@
 
 #
 ### __Proposal__
-#### Years X years of NHL game data and player statistics to determine whether or not a player with have a high scoring game, a single goal game, or no goals.
+#### Analyze NHL player statistics from the 2011/2012 season through the 2018/2019 season to determine whether or not a player with have a high scoring game, a single goal game, or no goals.
 
 #
 __Link to Dataset:__ https://www.kaggle.com/martinellis/nhl-game-data
