@@ -1,4 +1,4 @@
-# Final Project
+# Statistical Analysis of NHL Player Data
 
 ## Authored by _Zachary McCann_
 
